@@ -3,8 +3,15 @@ html {
 }
  h1 {
    font-family: 'PT Sans', sans-serif;
+   font-weight: bold;
  }
 
 ol li {
   font-family: 'PT Sans', sans-serif;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+  font-weight: bold;
 }
