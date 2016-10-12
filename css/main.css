@@ -1,5 +1,6 @@
 html {
   background-color: #c9b5ab;
+  line-height: 1.5;
 }
 
 main {
@@ -44,7 +45,6 @@ figcaption {
   font-style: italic;
   font-size: 75%;
 }
-
 
 .ssize {
   font-style: italic;
