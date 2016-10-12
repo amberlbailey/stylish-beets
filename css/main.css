@@ -18,7 +18,8 @@ h2 {
   font-weight: bold;
 }
 
-nav > ol li, a {
+a,
+nav > ol li {
   color: #8f2440;
   font-weight: normal;
   font-size: 1.125rem;
