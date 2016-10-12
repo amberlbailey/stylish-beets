@@ -51,3 +51,7 @@ figcaption {
 .list > dt {
   font-weight: bold;
 }
+
+.days {
+  font-weight: bolder;
+}
