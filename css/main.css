@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   line-height: 1.5;
+  color: #222;
 }
 
 main {
@@ -9,8 +10,6 @@ main {
 
 h1 {
   font-family: "PT Sans", sans-serif;
-  font-weight: bolder;
-  font-size: 1.5rem;
 }
 
 h2 {
@@ -27,7 +26,7 @@ nav > ol li, a {
 }
 
 a:hover {
-  color:#000;
+  color:#3f1622;
   text-decoration: none;
 }
 
