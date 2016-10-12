@@ -58,6 +58,11 @@ ol li {
   font-size: 85%;
 }
 
+.quote {
+  font-size: 110%;
+  font-style: italic;
+}
+
 .para {
   font-size: 85%;
 }
