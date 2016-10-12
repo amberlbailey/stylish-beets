@@ -27,6 +27,7 @@ nav > ol li, a {
 
 a:hover {
   color:#000;
+  text-decoration: none;
 }
 
 main > ol li {
