@@ -44,19 +44,19 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 80%;
+  font-size: 90%;
 }
 
 dd {
-  font-size: 85%;
+  font-size: 95%;
 }
 
 ul li {
-  font-size: 85%;
+  font-size: 95%;
 }
 
 ol li {
-  font-size: 85%;
+  font-size: 95%;
 }
 
 .quote {
