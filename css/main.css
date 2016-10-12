@@ -34,6 +34,6 @@ figcaption {
   font-style: italic;
 }
 
-dt:first-child {
+.ssize {
   font-style: italic;
 }
