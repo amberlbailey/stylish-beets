@@ -15,12 +15,12 @@ h1 {
 
 h2 {
   font-family: "PT Sans", sans-serif;
-  font-weight: bold,700;
+  font-weight: bold;
 }
 
 nav > ol li, a {
   color: #8f2440;
-  font-weight: bold,700;
+  font-weight: bold;
   font-size: 1.125rem;
   list-style-type: none;
   text-decoration: none;
@@ -89,7 +89,7 @@ ol li {
 .days {
   text-align: center;
   font-size: 0.8rem;
-  font-weight: bold,700;
+  font-weight: bold;
 }
 
 .chris {
