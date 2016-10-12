@@ -43,19 +43,19 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 90%;
 }
 
 dd {
-  font-size: 0.8rem%;
+  font-size: 95%;
 }
 
 ul li {
-  font-size: 0.8rem%;
+  font-size: 95%;
 }
 
 ol li {
-  font-size: 0.8rem;
+  font-size: 95%;
 }
 
 .quote {
@@ -64,11 +64,11 @@ ol li {
 }
 
 .para {
-  font-size: 0.8rem%;
+  font-size: 85%;
 }
 
 .para2 {
-  font-size: 0.8rem;
+  font-size: 85%;
 }
 
 .ssize {
@@ -85,5 +85,5 @@ ol li {
 }
 
 .chris {
-  font-size: 0.8rem;
+  font-size: 85%;
 }
