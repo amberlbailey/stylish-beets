@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 nav > ol li, a {
@@ -83,7 +83,7 @@ ol li {
 }
 
 .list > dt {
-  font-weight: normal;
+  font-weight: bold;
 }
 
 .days {
