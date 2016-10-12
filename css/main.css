@@ -37,3 +37,7 @@ figcaption {
 .ssize {
   font-style: italic;
 }
+
+.list > dt {
+  font-weight: bold;
+}
