@@ -9,12 +9,11 @@ main {
 
 h1 {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
 }
 
 h2 {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-size: 1.125rem;
 }
 
 nav > ol li, a {
@@ -44,19 +43,19 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 90%;
+  font-size: 0.8rem;
 }
 
 dd {
-  font-size: 95%;
+  font-size: 0.8rem%;
 }
 
 ul li {
-  font-size: 95%;
+  font-size: 0.8rem%;
 }
 
 ol li {
-  font-size: 95%;
+  font-size: 0.8rem;
 }
 
 .quote {
@@ -65,11 +64,11 @@ ol li {
 }
 
 .para {
-  font-size: 85%;
+  font-size: 0.8rem%;
 }
 
 .para2 {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
 
 .ssize {
@@ -86,5 +85,5 @@ ol li {
 }
 
 .chris {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
