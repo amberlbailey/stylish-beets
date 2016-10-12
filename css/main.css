@@ -4,16 +4,16 @@ html {
 }
 
 main {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 h1 {
-   font-family: 'PT Sans', sans-serif;
-   font-weight: normal;
- }
+  font-family: "PT Sans", sans-serif;
+  font-weight: normal;
+}
 
 h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: normal;
 }
 
@@ -22,7 +22,7 @@ nav > ol li, a {
   list-style-type: none;
   text-decoration: none;
   font-weight: normal;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 a:hover {
@@ -34,7 +34,7 @@ main > ol li {
   list-style-type: lower-greek;
   line-height:1.2rem;
   font-family: 'PT Serif', serif;
-  color: #000
+  color: #000;
 }
 
 img {
