@@ -9,12 +9,13 @@ main {
 
 h1 {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bolder;
+  font-size: 1.5rem;
 }
 
 h2 {
   font-family: "PT Sans", sans-serif;
-  font-weight: normal;
+  font-weight: bold;
 }
 
 nav > ol li, a {
@@ -44,19 +45,23 @@ img {
 figcaption {
   text-align: center;
   font-style: italic;
-  font-size: 75%;
+  font-size: 0.8rem;
 }
 
 dd {
-  font-size: 85%;
+  font-size: 0.8rem;
+}
+
+dt {
+  font-size: 0.8rem;
 }
 
 ul li {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
 
 ol li {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
 
 .quote {
@@ -65,11 +70,11 @@ ol li {
 }
 
 .para {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
 
 .para2 {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
 
 .ssize {
@@ -83,8 +88,9 @@ ol li {
 .days {
   font-weight: bolder;
   text-align: center;
+  font-size: 0.8rem;
 }
 
 .chris {
-  font-size: 85%;
+  font-size: 0.8rem;
 }
