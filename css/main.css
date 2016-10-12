@@ -9,19 +9,19 @@ main {
 
 h1 {
    font-family: 'PT Sans', sans-serif;
-   font-weight: bold;
+   font-weight: normal;
  }
 
 h2 {
   font-family: 'PT Sans', sans-serif;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 nav > ol li, a {
   color: #8f2440;
   list-style-type: none;
   text-decoration: none;
-  font-weight: bolder;
+  font-weight: normal;
   font-family: 'PT Sans', sans-serif;
 }
 
@@ -76,7 +76,7 @@ ol li {
 }
 
 .list > dt {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .days {
