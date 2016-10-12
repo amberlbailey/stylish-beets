@@ -28,3 +28,8 @@ main > ol li {
 img {
   width: 100%;
 }
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
